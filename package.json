@@ -29,6 +29,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
     "@types/jest": "^30.0.0",
     "concurrently": "^8.2.2",
     "cross-env": "^10.1.0",
